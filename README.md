@@ -1,6 +1,6 @@
 # Rock-Paper-Scissor
 This is a mini C++ project of the game rock paper scissor. 
-Rock Paper Scissor is a game that is played between two people. 
+Rock paper scissor is a game that is played between two people. 
 Each player in this game forms one of three shapes. 
 The winner will be decided as per the given rules:
 
